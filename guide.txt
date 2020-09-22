@@ -1,0 +1,27 @@
+1.a - Intro - Welcome, Setting up environment, Hello React 
+1.b - Build automation - 
+        - React Components (class / functional), 
+        - Stateless Components, 
+        - Webpack
+1.c - Building an application - 
+        - Using a Third Party Component, 
+        - Styling React
+1.d - State management - 
+        - React Router, 
+        - Redux, 
+        - React with Redux
+1.e - Assignment - Reviewer - Tracxn API assignment
+2.a - Local setup(running frontend services) - Running frontend services
+    - https://github.com/tracxn/infra/wiki/Quick-Local-Setup
+2.b - Assignment
+3.a - Reflux (workshop) 
+    - https://github.com/reflux/refluxjs
+3.b - Reflux (Assignment)
+4.a - List page framework (workshop) 
+    - https://github.com/tracxn/tracxnportal/wiki/List-Framework---User-Doc
+4.b - List page framework (assignment)
+5.a - Formsy (Documentation) 
+    - https://github.com/formsy/formsy-react/blob/ebd84bb02613b355a02fd3e3cffb9d6dcd46b500/API.md
+5.b - Formsy (Assignment)
+6.a - Edit page framework (workshop) 
+6.b - Edit page framework (Assignment)
