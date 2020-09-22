@@ -2,13 +2,13 @@ import React, { useEffect, useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Car from './components/classComp';
-import Home from './components/components';
+import Home from './components/Winterhold';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router,  Route,  Switch} from 'react-router-dom';
-import Schools from './components/components/schools';
-import Courses from './components/components/courses';
-import Faculty from './components/components/faculty';
-import Homepage from './components/components/home';
+import Schools from './components/Winterhold/schools';
+import Courses from './components/Winterhold/courses';
+import Faculty from './components/Winterhold/faculty';
+import Homepage from './components/Winterhold/home';
 
 function App() {
   const [st,setSt] = useState({stationStatus: true,serviceStation: 'Meenambakkam, Chennai,TN'})
