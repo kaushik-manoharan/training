@@ -1,5 +1,6 @@
 //sample class components
 import React from 'react'
+import DataCard from './dataCard';
 
 class Car extends React.Component{
     constructor(props){
@@ -42,14 +43,7 @@ class Car extends React.Component{
         // console.log(lastServArr)
     }
     render(){
-        return <div>
-            <h1>{`${this.state.make} ${this.state.model}`}</h1>
-    <p>Color: {this.state.color}</p>
-    <p>Next service : {this.state.nextService}</p>
-    <p>Days left to next service: {this.state.daysLefttoService}</p>
-    <p>Service Station: {this.state.serviceStation}</p>
-    <p>Service Station is <code>{this.state.stationStatus?"open":'closed'}</code></p>
-        </div>
+        return <DataCard state = {this.state}/>
     }
 }
 export default Car
