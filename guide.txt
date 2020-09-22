@@ -1,13 +1,13 @@
 1.a - Intro - Welcome, Setting up environment, Hello React 
 1.b - Build automation - 
-        - React Components (class / functional), 
-        - Stateless Components, 
+        - React Components (class / functional),  //completed
+        - Stateless Components, //completed
         - Webpack
 1.c - Building an application - 
-        - Using a Third Party Component, 
-        - Styling React
+        - Using a Third Party Component, //completed - bootstrap
+        - Styling React //inline, bootstrap package
 1.d - State management - 
-        - React Router, 
+        - React Router, //completed
         - Redux, 
         - React with Redux
 1.e - Assignment - Reviewer - Tracxn API assignment
